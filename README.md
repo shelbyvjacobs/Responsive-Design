@@ -4,6 +4,15 @@
 
 Project one was to find a mockup of a website and recreate it using HTML and CSS. This is an exercise in being able to take a representation of what a client may want their website to look like and create a beautiful and ___functional___ design.
 
+### Goals
+I had several goals for this project:
+* Select a mockup design.
+* Create a wireframe to plan out the layout of the site.
+* Write HTML code.
+* Write CSS code to stylize and position the contents.
+* Make the website responsive using media queries.
+* Push repository to GitHub.
+
 ### Example
 
 Below is a screenshot of [my project](https://shelbyvjacobs.github.io/#).
