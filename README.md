@@ -2,19 +2,17 @@
 
 ### Description
 
-Project one was to find a mockup of a website and recreate it using HTML and CSS. This is an exercise in being able to take a representation of what a client may want their website to look like and create a beautiful and __functional__ design.
+Project one was to find a mockup of a website and recreate it using HTML and CSS. This is an exercise in being able to take a representation of what a client may want their website to look like and create a beautiful and ___functional___ design.
 
 ### Example
 
-Below is a screenshot of my project.
+Below is a screenshot of [my project](https://shelbyvjacobs.github.io/#).
 
 ![My Website](https://i.imgur.com/eKnCVsO.png "My Website")
 
-And this is a screenshot of the original page.
+And this is a screenshot of the [original page](http://bdevs.net/intro/intro/project-details.html#).
 
 ![Original](https://i.imgur.com/HcfncG9.png "Original")
-
-[This](http://bdevs.net/intro/intro/project-details.html#) is the link to the original mockup.
 
 ### Features
 
@@ -22,11 +20,11 @@ This website features a top navigation bar with a logo and a burger menu, a bann
 
 ### Technologies Used
 
-The website is made responsive with media queries in four levels: desktop, laptop, tablet, and smart phone users should all be able to enjoy and navigate the site equally. All of the coding for this page was done in HTML and CSS.
+The website is made responsive with media queries in four levels: desktop, laptop, tablet, and smart phone users should all be able to enjoy and navigate the site equally. All of the coding for this page was done in **HTML** and **CSS**.
 
 ### Getting Started
 
-This project includes a single webpage. It can be accessed [here](shelbyvjacobs.github.io).
+This project includes a single webpage. It can be accessed [here](https://shelbyvjacobs.github.io/#).
 
 ### Contribution Guidelines
 
