@@ -12,6 +12,8 @@ I had several goals for this project:
 * Write CSS code to stylize and position the contents.
 * Make the website responsive using media queries.
 * Push repository to GitHub.
+In the future, I would like to make the following improvements:
+* Implement Javascript for the burger menu and other elements
 
 ### Example
 
